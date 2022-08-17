@@ -17,6 +17,7 @@ class Auto:
 posta="aloja.py"
 
 comit="comit2"
+aloja="perri"
             
 
         
