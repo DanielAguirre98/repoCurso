@@ -16,7 +16,7 @@ class Auto:
             print("El auto se encuentra apagado")
 posta="aloja.py"
 
-
+comit="comit2"
             
 
         
